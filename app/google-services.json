@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840869443642",
+    "project_id": "mozut-6f240",
+    "storage_bucket": "mozut-6f240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840869443642:android:2fb400cfd96a9d93f8dd03",
+        "android_client_info": {
+          "package_name": "com.example.mozut11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840869443642-tipck60dmbjjvke1i6cp94eh9amig597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0N9SAALbBcUvK3jj4rN7osXT5nzRnSr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840869443642-tipck60dmbjjvke1i6cp94eh9amig597.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
